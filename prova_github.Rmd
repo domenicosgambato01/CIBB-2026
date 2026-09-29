@@ -1,0 +1,11 @@
+---
+title: "prova"
+author: "Domenico Sgambato"
+date: "2026-09-29"
+output: html_document
+---
+
+```{r}
+x = 2
+```
+
